@@ -45,4 +45,4 @@ Enter the text you want to summarize: [Your input text here] Original Text: [You
 The script uses LSA as the default summarization method. You can change this by modifying the method parameter in the summarize_text function.
 For optimal results, ensure that the input text is well-structured and grammatically correct.
 # output
-![Image](https://github.com/user-attachments/assets/18c478c8-5f12-42a4-a69b-aa765b3f9b74)
+
